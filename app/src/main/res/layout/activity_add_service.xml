@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_add_service"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="vn.com.hcb.datn.AddService">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true">
+
+        <LinearLayout
+            android:id="@+id/lnScroll"
+            android:textColor="@color/black"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <!--Tên địa điểm-->
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#00CC00"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Tên địa điểm"/>
+            <EditText
+                android:id="@+id/edtName"
+                android:paddingLeft="10dp"
+                android:background="@color/white_low"
+                android:textSize="16sp"
+                android:textColorHint="@color/black"
+                android:hint="Tên địa điểm (*)"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginBottom="10dp"
+                />
+            <!--Thể loại-->
+            <TextView
+                android:text="Thể loại"
+                android:textSize="18sp"
+                android:textColor="#00CC00"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                />
+            <Spinner
+                android:id="@+id/spCate"
+                android:background="@color/white_low"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginBottom="10dp"
+                 />
+
+            <!--Tên thành phố, quận-->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginBottom="10dp"
+                android:orientation="horizontal">
+                <!--Tên thành phố-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginRight="5dp"
+                    android:orientation="vertical">
+                    <TextView
+
+                        android:textSize="18sp"
+                        android:textColor="#00CC00"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:text="Thành phố"/>
+
+                    <Spinner
+                        android:background="@color/white_low"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_marginBottom="10dp"
+                        android:id="@+id/spThanhPho" />
+
+                </LinearLayout>
+
+            <!--Tên quận-->
+                <LinearLayout
+                    android:layout_marginLeft="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+                    <TextView
+                        android:textSize="18sp"
+                        android:textColor="#00CC00"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:text="Quận"/>
+                    <Spinner
+                        android:background="@color/white_low"
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_marginBottom="10dp"
+                        android:id="@+id/spQuan" />
+                 </LinearLayout>
+            </LinearLayout>
+            <!--Địa chỉ-->
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#00CC00"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Địa chỉ"/>
+            <EditText
+                android:id="@+id/edtAddress"
+                android:paddingLeft="10dp"
+                android:background="@color/white_low"
+                android:textSize="16sp"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
+                android:hint="Địa chỉ"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginBottom="10dp"
+                />
+            <!--Vị trí-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:text="Vị trí trên Map"
+                android:textColor="#00CC00"
+                android:textSize="18sp"/>
+            <LinearLayout
+                android:layout_marginBottom="10dp"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:orientation="horizontal">
+                <EditText
+                    android:id="@+id/edtlat"
+                    android:padding="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:inputType="numberDecimal|numberSigned"
+                    android:hint="Vĩ độ/lat"
+                    android:background="@color/white_low"
+                    android:layout_marginRight="5dp"/>
+                <EditText
+                    android:id="@+id/edtlng"
+                    android:padding="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:inputType="numberDecimal|numberSigned"
+                    android:hint="Kinh độ/lng"
+                    android:layout_marginLeft="5dp"
+                    android:background="@color/white_low"
+                />
+
+            </LinearLayout>
+            <!--Mức Giá-->
+            <LinearLayout
+                android:background="@color/white_low"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:orientation="horizontal"
+                android:layout_marginBottom="10dp">
+                <TextView
+                    android:layout_weight="1"
+                    android:textSize="18sp"
+                    android:textColor="#00CC00"
+                    android:textColorHint="@color/black"
+                    android:gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_marginBottom="10dp"
+                    android:text="Mức giá"/>
+                <LinearLayout
+                    android:layout_weight="2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_gravity="right"
+                    android:layout_marginLeft="5dp"
+                    >
+                    <EditText
+                        android:id="@+id/edtprice_low"
+                        android:layout_weight="2"
+                        android:background="@color/silver"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:hint="Giá thấp nhất"
+                        android:textSize="14sp"
+                        android:inputType="number"/>
+                    <TextView
+                        android:layout_weight="1"
+                        android:textSize="16sp"
+                        android:textColor="@color/black"
+                        android:textColorHint="@color/black"
+                        android:gravity="center"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        android:text="đến"/>
+                    <EditText
+                        android:id="@+id/edtprice_high"
+                        android:layout_weight="2"
+                        android:textSize="14sp"
+                        android:background="@color/silver"
+                        android:layout_width="wrap_content"
+                        android:layout_height="40dp"
+                        android:hint="Giá cao nhất"
+                        android:inputType="number"    />
+                </LinearLayout>
+            </LinearLayout>
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#00CC00"
+                android:textColorHint="@color/black"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginBottom="5dp"
+                android:text="Thông tin thêm"/>
+
+            <EditText
+                android:id="@+id/edtintro"
+                android:background="@color/white_low"
+                android:textSize="16sp"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
+                android:hint="Thông tin thêm"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:paddingLeft="10dp"
+                android:layout_marginBottom="10dp"
+                />
+
+            <TextView
+                android:textSize="18sp"
+                android:textColor="#00CC00"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginBottom="5dp"
+                android:text="Chia sẻ ảnh"/>
+            <LinearLayout
+                android:id="@+id/layoutShow"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/imgShow"
+                android:background="@color/white_low"
+                android:src="@drawable/no_image"
+                android:layout_width="150dp"
+                android:layout_height="150dp" />
+             <EditText
+                 android:id="@+id/edtNameImage"
+                 android:background="@color/white_low"
+                 android:textSize="16sp"
+                 android:textColor="@color/black"
+                 android:textColorHint="@color/black"
+                 android:hint="Tên ảnh"
+                 android:layout_marginLeft="10dp"
+                 android:paddingLeft="5dp"
+                 android:layout_width="match_parent"
+                 android:layout_height="150dp" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+</RelativeLayout>

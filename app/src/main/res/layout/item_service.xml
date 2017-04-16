@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="160dp"
+    android:layout_height="290dp"
+    android:layout_margin="2dp">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/img_Item"
+            android:layout_margin="5dp"
+            android:layout_width="150dp"
+            android:layout_height="180dp"
+            android:src="@color/background"/>
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="10dp"
+            android:visibility="gone"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_Ten_quan"
+        android:text="Quán riêu cua kcskscacjakscj"
+        android:layout_width="150dp"
+        android:layout_margin="5dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:id="@+id/tv_dia_chi"
+        android:text="123 Đại cồ viểt"
+        android:layout_width="150dp"
+        android:layout_margin="5dp"
+        android:textStyle="italic"
+        android:textColor="@color/black"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>

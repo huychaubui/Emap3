@@ -1,0 +1,1016 @@
+[
+{
+"name": "Hà Nội",
+"districts": [
+ "H Ba Vì",
+ "H Chương Mỹ",
+ "H Đan Phượng",
+ "H Đông Anh",
+ "H Gia Lâm",
+ "H Hoài Đức",
+ "H Mê Linh",
+ "H Mỹ Đức",
+ "H Phú Xuyên",
+ "H Phúc Thọ",
+ "H Quốc Oai",
+ "H Sóc Sơn",
+ "H Thạch Thất",
+ "H Thanh Oai",
+ "H Thanh Trì",
+ "H Thường Tín",
+ "H Từ Liêm",
+ "H ứng Hòa",
+ "Quận Ba Đình",
+ "Quận Cầu Giấy",
+ "Quận Đống Đa",
+ "Quận Hà Đông",
+ "Quận Hai Bà Trưng",
+ "Quận Hoàn Kiếm",
+ "Quận Hoàng Mai",
+ "Quận Long Biên",
+ "Quận Tây Hồ",
+ "Quận Thanh Xuân",
+ "TX Sơn Tây"
+]
+},
+{
+"name": "TP Hồ Chí Minh",
+"districts": [
+ "H Bình Chánh",
+ "H Cần Giờ",
+ "H Củ Chi",
+ "H Hóc Môn",
+ "H Nhà Bè",
+ "Quận 1",
+ "Quận 10",
+ "Quận 11",
+ "Quận 12",
+ "Quận 2",
+ "Quận 3",
+ "Quận 4",
+ "Quận 5",
+ "Quận 6",
+ "Quận 7",
+ "Quận 8",
+ "Quận 9",
+ "Quận Bình Tân",
+ "Quận Bình Thạnh",
+ "Quận Gò Vấp",
+ "Quận Phú Nhuận",
+ "Quận Tân Bình",
+ "Quận Tân Phú",
+ "Quận Thủ Đức"
+]
+},
+ {
+"name": "Đà Nẵng",
+"districts": [
+"H Hòa Vang",
+ "H Hoàng Sa",
+ "Quận Cẩm Lệ",
+ "Quận Hải Châu",
+ "Quận Liên Chiểu",
+ "Quận Ngũ Hành Sơn",
+ "Quận Sơn Trà",
+ "Quận Thanh Khê"
+]
+},
+{
+"name": "Cần Thơ",
+"districts": [
+	"H Cờ Đỏ",
+	"H Phong Điền",
+	"H Thới Lai",
+	"H Vĩnh Thạnh",
+	"Quận Bình Thủy",
+	"Quận Cái Răng",
+	"Quận Ninh Kiều",
+	"Quận Ô Môn",
+	"Quận Thốt Nốt"
+]
+},
+ {
+"name": "Hải Phòng",
+"districts": [
+ "H An Dương",
+ "H An Lão",
+ "H Bạch Long Vĩ",
+ "H Cát Hải",
+ "H Kiến Thụy",
+ "H Thủy Nguyên",
+ "H Tiên Lãng",
+ "H Vĩnh Bảo",
+ "Quận Đồ Sơn",
+ "Quận Dương Kinh",
+ "Quận Hải An",
+ "Quận Hồng Bàng",
+ "Quận Kiến An",
+ "Quận Lê Chân",
+ "Quận Ngô Quyền"
+]
+},
+ {
+"name": "An Giang",
+"districts": [
+ "H An Phú",
+ "H Châu Phú",
+ "H Châu Thành",
+ "H Chợ Mới",
+ "H Phú Tân",
+ "H Thoại Sơn",
+ "H Tịnh Biên",
+ "H Tri Tôn",
+ "TP Long Xuyên",
+ "TX Châu Đốc",
+ "TX Tân Châu"
+]
+},
+ {
+"name": "Bà Rịa-Vũng Tàu",
+"districts": [
+ "H Châu Đức",
+ "H Côn Đảo",
+ "H Đất Đỏ",
+ "H Long Điền",
+ "H Tân Thành",
+ "H Xuyên Mộc",
+ "TP Vũng Tàu",
+ "TX Bà Rịa"
+]
+},
+ {
+"name": "Bắc Giang",
+"districts": [
+ "H Hiệp Hòa",
+ "H Lạng Giang",
+ "H Lục Nam",
+ "H Lục Ngạn",
+ "H Sơn Động",
+ "H Tân Yên",
+ "H Việt Yên",
+ "H Yên Dũng",
+ "H Yên Thế",
+ "TP Bắc Giang"
+]
+},
+ {
+"name": "Bắc Kạn",
+"districts": [
+ "H Ba Bể",
+ "H Bạch Thông",
+ "H Chợ Đồn",
+ "H Chợ Mới",
+ "H Na Rì",
+ "H Ngân Sơn",
+ "H Pác Nặm",
+ "TX Bắc Kạn"
+]
+},
+ {
+"name": "Bạc Liêu",
+"districts": [
+ "H Đông Hải",
+ "H Giá Rai",
+ "H Hòa Bình",
+ "H Hồng Dân",
+ "H Phước Long",
+ "H Vĩnh Lợi",
+ "TP Bạc Liêu"
+]
+},
+ {
+"name": "Bắc Ninh",
+"districts": [
+ "H Gia Bình",
+ "H Lương Tài",
+ "H Quế Võ",
+ "H Thuận Thành",
+ "H Tiên Du",
+ "H Yên Phong",
+ "TP Bắc Ninh",
+ "TX Từ Sơn"
+]
+},
+{
+"name": "Bến Tre",
+"districts": [
+ "H Ba Tri",
+ "H Bình Đại",
+ "H Châu Thành",
+ "H Chợ Lách",
+ "H Giồng Trôm",
+ "H Mỏ Cày Bắc",
+ "H Mỏ Cày Nam",
+ "H Thạnh Phú",
+ "TP Bến Tre"
+]
+},
+ {
+"name": "Bình Định",
+"districts": [
+	"H An Lão",
+	"H An Nhơn",
+	"H Hoài Ân",
+	"H Hoài Nhơn",
+ "H Phù Mỹ",
+ "H Phù cát",
+ "H Tây Sơn",
+ "H Tuy Phước",
+ "H Vân Canh",
+ "H Vĩnh Thạnh",
+ "TP Quy Nhơn"
+]
+},
+{
+"name": "Bình Dương",
+"districts": [
+ "H Bến Cát",
+ "H Dầu Tiếng",
+ "H Dĩ An",
+ "H Phú Giáo",
+ "H Tân Uyên",
+ "H Thuận An",
+ "TX Thủ Dầu Một"
+]
+},
+ {
+"name": "Bình Phước",
+"districts": [
+ "H Bù Đăng",
+ "H Bù Đốp",
+ "H Bù Gia Mập",
+ "H Chơn Thành",
+ "H Đồng Phú",
+ "H Hớn Quản",
+ "H Lộc Ninh",
+ "TX Bình Long",
+ "TX Đồng Xoài",
+ "TX Phước Long"
+]
+},
+ {
+"name": "Bình Thuận",
+"districts": [
+ "H Đức Linh",
+ "H Bắc Bình",
+ "H Hàm Tân",
+ "H Hàm Thuận Bắc",
+ "H Hàm Thuận Nam",
+ "H Phú Qúi",
+ "H Tánh Linh",
+ "H Tuy Phong",
+ "TP Phan Thiết",
+ "TX La Gi"
+]
+},
+ {
+"name": "Cà Mau",
+"districts": [
+ "H Cái Nước",
+ "H Đầm Dơi",
+ "H Năm Căn",
+ "H Ngọc Hiển",
+ "H Phú Tân",
+ "H Thới Bình",
+ "H Trần Văn Thời",
+ "H U Minh",
+ "TP Cà Mau"
+]
+},
+ {
+"name": "Cao Bằng",
+"districts": [
+ "H Bảo Lạc",
+ "H Bảo Lâm",
+ "H Hạ Lang",
+ "H Hà Quảng",
+ "H Hòa An",
+ "H Nguyên Bình",
+ "H Phục Hòa",
+ "H Quảng Uyên",
+ "H Thạch An",
+ "H Thông Nông",
+ "H Trà Lĩnh",
+ "H Trùng Khánh",
+ "TX Cao Bằng"
+]
+},
+ {
+"name": "Đắk Lắk",
+"districts": [
+ "H Buôn Đôn",
+ "H Cư Kuin",
+ "H Cư MGar",
+ "H Ea Kar",
+ "H Ea Súp",
+ "H EaHLeo",
+ "H Krông Ana",
+ "H Krông Bông",
+ "H Krông Búk",
+ "H Krông Năng",
+ "H Krông Pắc",
+ "H Lắk",
+ "H MDrắk",
+ "TP Buôn Ma Thuột",
+ "TX Buôn Hồ"
+]
+},
+ {
+"name": "Đắk Nông",
+"districts": [
+ "H Cư Jút",
+ "H Đắk GLong",
+ "H Đắk Mil",
+ "H Đắk RLấp",
+ "H Đắk Song",
+ "H KRông Nô",
+ "H Tuy Đức",
+ "TX Gia Nghĩa"
+]
+},
+ {
+"name": "Điện Biên",
+"districts": [
+ "H Điện Biên",
+ "H Điện Biên Đông",
+ "H Mường Chà",
+ "H Mương Nhé",
+ "H Mường ảng",
+ "H Tủa Chùa",
+ "H Tuần Giáo",
+ "TP Điện Biên phủ",
+ "TX Mường Lay"
+]
+},
+ {
+"name": "Đồng Nai",
+"districts": [
+ "H Cẩm Mỹ",
+ "H Định Quán",
+ "H Long Thành",
+ "H Nhơn Trạch",
+ "H Tân Phú",
+ "H Thống Nhất",
+ "H Trảng Bom",
+ "H Vĩnh Cửu",
+ "H Xuân Lộc",
+ "TP Biên Hòa",
+ "TX Long Khánh"
+]
+},
+ {
+"name": "Đồng Tháp",
+"districts": [
+ "H Cao Lãnh",
+ "H Châu Thành",
+ "H Hồng Ngự",
+ "H Lai Vung",
+ "H Lấp Vò",
+ "H Tam Nông",
+ "H Tân Hồng",
+ "H Thanh Bình",
+ "H Tháp Mười",
+ "TP Cao Lãnh",
+ "TX Hồng Ngự",
+ "TX Sa Đéc"
+]
+},
+ {
+"name": "Gia Lai",
+"districts": [
+ "H Chư Păh",
+ "H Chư Pưh",
+ "H Chư Sê",
+ "H ChưPRông",
+ "H Đăk Đoa",
+ "H Đăk Pơ",
+ "H Đức Cơ",
+ "H Ia Grai",
+ "H Ia Pa",
+ "H KBang",
+ "H KBang",
+ "H Kông Chro",
+ "H Krông Pa",
+ "H Mang Yang",
+ "H Phú Thiện",
+ "TP Plei Ku",
+ "TX AYun Pa",
+ "TX An Khê"
+]
+},
+ {
+"name": "Hà Giang",
+"districts": [
+ "H Bắc Mê",
+ "H Bắc Quang",
+ "H Đồng Văn",
+ "H Hoàng Su Phì",
+ "H Mèo Vạc",
+ "H Quản Bạ",
+ "H Quang Bình",
+ "H Vị Xuyên",
+ "H Xín Mần",
+ "H Yên Minh",
+ "TP Hà Giang"
+]
+},
+ {
+"name": "Hà Nam",
+"districts": [
+ "H Bình Lục",
+ "H Duy Tiên",
+ "H Kim Bảng",
+ "H Lý Nhân",
+ "H Thanh Liêm",
+ "TP Phủ Lý"
+]
+},
+ {
+"name": "Hà Tĩnh",
+"districts": [
+ "H Cẩm Xuyên",
+ "H Can Lộc",
+ "H Đức Thọ",
+ "H Hương Khê",
+ "H Hương Sơn",
+ "H Kỳ Anh",
+ "H Lộc Hà",
+ "H Nghi Xuân",
+ "H Thạch Hà",
+ "H Vũ Quang",
+ "TP Hà Tĩnh",
+ "TX Hồng Lĩnh"
+]
+},
+ {
+"name": "Hải Dương",
+"districts": [
+ "H Bình Giang",
+ "H Cẩm Giàng",
+ "H Gia Lộc",
+ "H Kim Thành",
+ "H Kinh Môn",
+ "H Nam Sách",
+ "H Ninh Giang",
+ "H Thanh Hà",
+ "H Thanh Miện",
+ "H Tứ Kỳ",
+ "TP Hải Dương",
+ "TX Chí Linh"
+]
+},
+ {
+"name": "Hậu Giang",
+"districts": [
+ "H Châu Thành",
+ "H Châu Thành A",
+ "H Long Mỹ",
+ "H Phụng Hiệp",
+ "H Vị Thủy",
+ "TP Vị Thanh",
+ "TX Ngã Bảy"
+]
+},
+ {
+"name": "Hòa Bình",
+"districts": [
+ "H Cao Phong",
+ "H Đà Bắc",
+ "H Kim Bôi",
+ "H Kỳ Sơn",
+ "H Lạc Sơn",
+ "H Lạc Thủy",
+ "H Lương Sơn",
+ "H Mai Châu",
+ "H Tân Lạc",
+ "H Yên Thủy",
+ "TP Hòa Bình"
+]
+},
+{
+"name": "Hưng Yên",
+"districts": [
+ "H Ân Thi",
+ "H Khoái Châu",
+ "H Kim Động",
+ "H Mỹ Hào",
+ "H Phù Cừ",
+"H Tiên Lữ",
+ "H Văn Giang",
+ "H Văn Lâm",
+ "H Yên Mỹ",
+ "TP Hưng Yên"
+]
+},
+ {
+"name": "Khánh Hòa",
+"districts": [
+ "H Cam Lâm",
+ "H Diên Khánh",
+ "H Khánh Sơn",
+ "H Khánh Vĩnh",
+ "H Ninh Hòa",
+ "H Trường Sa",
+ "H Vạn Ninh",
+ "TP Nha Trang",
+ "TX Cam Ranh"
+]
+},
+{
+ "name": "Kiên Giang",
+"districts": [
+ "H An Biên",
+ "H An Minh",
+ "H Châu Thành",
+ "H Giang Thành",
+ "H Giồng Riềng",
+ "H Gò Quao",
+ "H Hòn Đất",
+ "H Kiên Hải",
+ "H Kiên Lương",
+ "H Phú Quốc",
+ "H Tân Hiệp",
+ "H U Minh Thượng",
+ "H Vĩnh Thuận",
+ "TP Rạch Giá",
+ "TX Hà Tiên"
+]
+},
+ {
+"name": "Kon Tum",
+"districts": [
+ "H Đắk Glei",
+ "H Đắk Hà",
+ "H Đắk Tô",
+ "H Kon Plông",
+ "H Kon Rẫy",
+ "H Ngọc Hồi",
+ "H Sa Thầy",
+ "H Tu Mơ Rông",
+ "TP Kon Tum"
+]
+},
+ {
+"name": "Lai Châu",
+"districts": [
+ "H Mường Tè",
+ "H Phong Thổ",
+ "H Sìn Hồ",
+ "H Tam Đường",
+ "H Tân Uyên",
+ "H Than Uyên",
+ "TX Lai Châu"
+]
+},
+ {
+"name": "Lâm Đồng",
+"districts": [
+ "H Bảo Lâm",
+ "H Cát Tiên",
+ "H Đạ Huoai",
+ "H Đạ Tẻh",
+ "H Đam Rông",
+ "H Di Linh",
+ "H Đơn Dương",
+ "H Đức Trọng",
+ "H Lạc Dương",
+ "H Lâm Hà",
+ "TP Bảo Lộc",
+ "TP Đà Lạt"
+]
+},
+ {
+"name": "Lạng Sơn",
+"districts": [
+ "H Bắc Sơn",
+ "H Bình Gia",
+ "H Cao Lộc",
+ "H Chi Lăng",
+ "H Đình Lập",
+ "H Hữu Lũng",
+ "H Lộc Bình",
+ "H Tràng Định",
+ "H Văn Lãng",
+ "H Văn Quan",
+ "TP Lạng Sơn"
+]
+},
+ {
+"name": "Lào Cai",
+"districts": [
+ "H Bắc Hà",
+ "H Bảo Thắng",
+ "H Bảo Yên",
+ "H Bát Xát",
+ "H Mường Khương",
+ "H Sa Pa",
+ "H Si Ma Cai",
+ "H Văn Bàn",
+ "TP Lào Cai"
+]
+},
+ {
+"name": "Long An",
+"districts": [
+ "H Bến Lức",
+ "H Cần Đước",
+ "H Cần Giuộc",
+ "H Châu Thành",
+ "H Đức Hòa",
+ "H Đức Huệ",
+ "H Mộc Hóa",
+ "H Tân Hưng",
+ "H Tân Thạnh",
+ "H Tân Trụ",
+ "H Thạnh Hóa",
+ "H Thủ Thừa",
+ "H Vĩnh Hưng",
+ "TP Tân An"
+]
+},
+ {
+"name": "Nam Định",
+"districts": [
+ "H Giao Thủy",
+ "H Hải Hậu",
+ "H Mỹ Lộc",
+ "H Nam Trực",
+ "H Nghĩa Hưng",
+ "H Trực Ninh",
+ "H Vụ Bản",
+ "H Xuân Trường",
+ "H ý Yên",
+ "TP Nam Định"
+]
+},
+ {
+"name": "Nghệ An",
+"districts": [
+ "H Anh Sơn",
+ "H Con Cuông",
+ "H Diễn Châu",
+ "H Đô Lương",
+ "H Hưng Nguyên",
+ "H Kỳ Sơn",
+ "H Nam Đàn",
+ "H Nghi Lộc",
+ "H Nghĩa Đàn",
+ "H Quế Phong",
+ "H Quỳ Châu",
+ "H Quỳ Hợp",
+ "H Quỳnh Lưu",
+ "H Tân Kỳ",
+ "H Thanh Chương",
+ "H Tương Dương",
+ "H Yên Thành",
+ "TP Vinh",
+ "TX Cửa Lò",
+ "TX Thái Hòa",
+ "TX Hoàng Mai"
+]
+},
+ {
+"name": "Ninh Bình",
+"districts": [
+ "H Gia Viễn",
+ "H Hoa Lư",
+ "H Kim Sơn",
+ "H Nho Quan",
+ "H Yên Khánh",
+ "H Yên Mô",
+ "TP Ninh Bình",
+ "TX Tam Điệp"
+]
+},
+ {
+"name": "Ninh Thuận",
+"districts": [
+ "Huyên Bác ái",
+ "H Ninh Hải",
+ "H Ninh Phước",
+ "H Ninh Sơn",
+ "H Thuận Bắc",
+ "H Thuận Nam",
+ "TP Phan Rang-Tháp Chàm"
+]
+},
+ {
+"name": "Phú Thọ",
+"districts": [
+ "H Cẩm Khê",
+ "H Đoan Hùng",
+ "H Hạ Hòa",
+ "H Lâm Thao",
+ "H Phù Ninh",
+ "H Tam Nông",
+ "H Tân Sơn",
+ "H Thanh Ba",
+ "H Thanh Sơn",
+ "H Thanh Thủy",
+ "H Yên Lập",
+ "TP Việt Trì",
+ "TX Phú Thọ"
+]
+},
+ {
+"name": "Phú Yên",
+"districts": [
+ "H Đông Hòa",
+ "H Đồng Xuân",
+ "H Phú Hòa",
+ "H Sơn Hòa",
+ "H Sông Hinh",
+ "H Tây Hòa",
+ "H Tuy An",
+ "TP Tuy Hòa",
+ "TX Sông Cầu"
+]
+},
+ {
+"name": "Quảng Bình",
+"districts": [
+ "H Bố Trạch",
+ "H Lệ Thủy",
+ "H MinhHoá",
+ "H Quảng Ninh",
+ "H Quảng Trạch",
+ "H Tuyên Hoá",
+ "TP Đồng Hới"
+]
+},
+ {
+"name": "Quảng Nam",
+"districts": [
+ "H Bắc Trà My",
+ "H Đại Lộc",
+ "H Điện Bàn",
+ "H Đông Giang",
+ "H Duy Xuyên",
+ "H Hiệp Đức",
+ "H Nam Giang",
+ "H Nam Trà My",
+ "H Nông Sơn",
+ "H Núi Thành",
+ "H Phú Ninh",
+ "H Phước Sơn",
+ "H Quế Sơn",
+ "H Tây Giang",
+ "H Thăng Bình",
+ "H Tiên Phước",
+ "TP Hội An",
+ "TP Tam Kỳ"
+]
+},
+ {
+"name": "Quảng Ngãi",
+"districts": [
+ "H Ba Tơ",
+ "H Bình Sơn",
+ "H Đức Phổ",
+ "H Lý sơn",
+ "H Minh Long",
+ "H Mộ Đức",
+ "H Nghĩa Hành",
+ "H Sơn Hà",
+ "H Sơn Tây",
+ "H Sơn Tịnh",
+ "H Tây Trà",
+ "H Trà Bồng",
+ "H Tư Nghĩa",
+ "TP Quảng Ngãi"
+]
+},
+ {
+"name": "Quảng Ninh",
+"districts": [
+ "H Ba Chẽ",
+ "H Bình Liêu",
+ "H Cô Tô",
+ "H Đầm Hà",
+ "H Đông Triều",
+ "H Hải Hà",
+ "H Hoành Bồ",
+ "H Tiên Yên",
+ "H Vân Đồn",
+ "H Yên Hưng",
+ "TP Hạ Long",
+ "TP Móng Cái",
+ "TX Cẩm Phả",
+ "TX Uông Bí"
+]
+},
+ {
+"name": "Quảng Trị",
+"districts": [
+ "H Cam Lộ",
+ "H Cồn Cỏ",
+ "H Đa Krông",
+ "H Gio Linh",
+ "H Hải Lăng",
+ "H Hướng Hóa",
+ "H Triệu Phong",
+ "H Vính Linh",
+ "TP Đông Hà",
+ "TX Quảng Trị"
+]
+},
+ {
+"name": "Sóc Trăng",
+"districts": [
+ "H Châu Thành",
+ "H Cù Lao Dung",
+ "H Kế Sách",
+ "H Long Phú",
+ "H Mỹ Tú",
+ "H Mỹ Xuyên",
+ "H Ngã Năm",
+ "H Thạnh Trị",
+ "H Trần Đề",
+ "H Vĩnh Châu",
+ "TP Sóc Trăng"
+]
+},
+ {
+"name": "Sơn La",
+"districts": [
+ "H Bắc Yên",
+ "H Mai Sơn",
+ "H Mộc Châu",
+ "H Mường La",
+ "H Phù Yên",
+ "H Quỳnh Nhai",
+ "H Sông Mã",
+ "H Sốp Cộp",
+ "H Thuận Châu",
+ "H Yên Châu",
+ "TP Sơn La"
+]
+},
+ {
+"name": "Tây Ninh",
+"districts": [
+ "H Bến Cầu",
+ "H Châu Thành",
+ "H Dương Minh Châu",
+ "H Gò Dầu",
+ "H Hòa Thành",
+ "H Tân Biên",
+ "H Tân Châu",
+ "H Trảng Bàng",
+ "TX Tây Ninh"
+]
+},
+ {
+"name": "Thái Bình",
+"districts": [
+ "H Đông Hưng",
+ "H Hưng Hà",
+ "H Kiến Xương",
+ "H Quỳnh Phụ",
+ "H Thái Thụy",
+ "H Tiền Hải",
+ "H Vũ Thư",
+ "TP Thái Bình"
+]
+},
+ {
+"name": "Thái Nguyên",
+"districts": [
+ "H Đại Từ",
+ "H Định Hóa",
+ "H Đồng Hỷ",
+ "H Phổ Yên",
+ "H Phú Bình",
+ "H Phú Lương",
+ "H Võ Nhai",
+ "TP Thái Nguyên",
+ "TX Sông Công"
+]
+},
+ {
+"name": "Thanh Hóa",
+"districts": [
+ "H Bá Thước",
+ "H Cẩm Thủy",
+ "H Đông Sơn",
+ "H Hà Trung",
+ "H Hậu Lộc",
+ "H Hoằng Hóa",
+ "H Lang Chánh",
+ "H Mường Lát",
+ "H Nga Sơn",
+ "H Ngọc Lặc",
+ "H Như Thanh",
+ "H Như Xuân",
+ "H Nông Cống",
+ "H Quan Hóa",
+ "H Quan Sơn",
+ "H Quảng Xương",
+ "H Thạch Thành",
+"H Thiệu Hóa",
+ "H Thọ Xuân",
+ "H Thường Xuân",
+ "H Tĩnh Gia",
+ "H Triệu Sơn",
+ "H Vĩnh Lộc",
+ "H Yên Định",
+ "TP Thanh Hóa",
+ "TX Bỉm Sơn",
+ "TX Sầm Sơn"
+]
+},
+ {
+"name": "Thừa Thiên Huế",
+"districts": [
+ "H A Lưới",
+ "H Hương Trà",
+ "H Nam Dông",
+ "H Phong Điền",
+ "H Phú Lộc",
+ "H Phú Vang",
+ "H Quảng Điền",
+ "TP Huế",
+ "TX Hương Thủy"
+]
+},
+ {
+"name": "Tiền Giang",
+"districts": [
+ "H Cái Bè",
+ "H Cai Lậy",
+ "H Châu Thành",
+ "H Chợ Gạo",
+ "H Gò Công Đông",
+ "H Gò Công Tây",
+ "H Tân Phú Đông",
+ "H Tân Phước",
+ "TP Mỹ Tho",
+ "TX Gò Công"
+]
+},
+ {
+"name": "Trà Vinh",
+"districts": [
+ "H Càng Long",
+ "H Cầu Kè",
+ "H Cầu Ngang",
+ "H Châu Thành",
+ "H Duyên Hải",
+ "H Tiểu Cần",
+ "H Trà Cú",
+ "TP Trà Vinh"
+]
+},
+ {
+"name": "Tuyên Quang",
+"districts": [
+ "H Chiêm Hóa",
+ "H Hàm Yên",
+ "H Na hang",
+ "H Sơn Dương",
+ "H Yên Sơn",
+ "TP Tuyên Quang"
+]
+},
+ {
+"name": "Vĩnh Long",
+"districts": [
+ "H Bình Minh",
+ "H Bình Tân",
+ "H Long Hồ",
+ "H Mang Thít",
+ "H Tam Bình",
+ "H Trà Ôn",
+ "H Vũng Liêm",
+ "TP Vĩnh Long"
+]
+},
+ {
+"name": "Vĩnh Phúc",
+"districts": [
+ "H Bình Xuyên",
+ "H Lập Thạch",
+ "H Sông Lô",
+ "H Tam Đảo",
+ "H Tam Dương",
+ "H Vĩnh Tường",
+ "H Yên Lạc",
+ "TP Vĩnh Yên",
+ "TX Phúc Yên"
+]
+},
+ {
+"name": "Yên Bái",
+"districts": [
+ "H Lục Yên",
+ "H Mù Cang Chải",
+ "H Trạm Tấu",
+ "H Trấn Yên",
+ "H Văn Chấn",
+ "H Văn Yên",
+ "H Yên Bình",
+ "TP Yên Bái",
+ "TX Nghĩa Lộ"
+]
+}
+]

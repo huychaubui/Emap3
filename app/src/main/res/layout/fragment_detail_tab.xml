@@ -1,0 +1,149 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    tools:context="vn.com.hcb.layouts.DetailTab">
+    <LinearLayout
+        android:layout_marginTop="10dp"
+
+        android:layout_width="match_parent"
+        android:layout_height="34dp"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="30dp"
+            android:src="@drawable/address25"/>
+        <TextView
+            android:paddingLeft="10dp"
+            android:id="@+id/tvChiDuong"
+            android:text="Đường đi"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:gravity="center|left"
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            />
+        <TextView
+            android:text=">>"
+            android:gravity="center|right"
+            android:paddingEnd="15dp"
+            android:textSize="20sp"
+            android:textColor="@color/background"
+            android:layout_width="40dp"
+            android:layout_height="30dp"
+            />
+
+    </LinearLayout>
+    <View
+
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/white_low"></View>
+
+    <LinearLayout
+        android:paddingTop="2dp"
+        android:paddingBottom="2dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="30dp"
+            android:src="@drawable/address25"/>
+        <TextView
+            android:paddingLeft="10dp"
+            android:id="@+id/tvAddressDetail"
+            android:text="Xóm 3, Diễn Hùng, Diễn Châu, Nghệ An, Việt Nam"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            />
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/white_low"></View>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@drawable/category25"/>
+        <TextView
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:id="@+id/tvCateDetail"
+            android:text="Cafe-Việt Nam"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            />
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/white_low"></View>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:src="@drawable/price25"/>
+        <TextView
+            android:paddingLeft="10dp"
+            android:id="@+id/tvPriceDetail"
+            android:text="10.000 đồng - 30.000 đồng"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            />
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="4dp"
+        android:background="@color/white_low"></View>
+    <TextView
+        android:text="Xem tất cả thông tin"
+        android:textSize="15sp"
+        android:textColor="@color/black"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="4dp"
+        android:background="@color/white_low"></View>
+
+    <TextView
+        android:text="Địa điểm gần đây"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:background="@color/background"
+        android:textColor="@color/black"
+        android:gravity="left|center"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="4dp"
+        android:background="@color/white_low"></View>
+</LinearLayout>

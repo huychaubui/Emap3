@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="vn.com.hcb.datn.Detail_service">
+    <android.support.design.widget.TabLayout
+        android:id="@+id/tabsDetail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        app:tabBackground="@drawable/tab_bar_background"
+        style="@style/MyCustomTabLayout"
+        app:tabMode="fixed"
+        app:tabGravity="fill"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:background="@color/yellow"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginRight="5dp"
+            android:orientation="vertical"
+            android:layout_weight="1">
+            <ImageView
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_gravity="center"
+                android:src="@drawable/likeicon"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:textColor="@color/colorPrimary"
+                android:text="Yêu thích"
+                android:gravity="center"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_weight="1"
+            android:layout_width="32dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="5dp"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_gravity="center"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:src="@drawable/dislikeicon"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:textColor="@color/colorPrimary"
+                android:text="5"
+                android:gravity="center"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_weight="1"
+            android:layout_width="32dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="5dp"
+            android:orientation="vertical">
+            <ImageView
+                android:layout_gravity="center"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:src="@drawable/love30"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:textColor="@color/colorPrimary"
+                android:text="Lưu lại"
+                android:gravity="center"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+        <ImageView
+            android:adjustViewBounds="true"
+            android:id="@+id/imgHinhDetail"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:background="@color/white_low"
+            android:layout_gravity="top|center"
+            android:layout_marginBottom="10dp"/>
+
+        </RelativeLayout>
+
+            <TextView
+            android:paddingLeft="15dp"
+            android:id="@+id/tvNameDetail"
+            android:text="Tititleadsdsdsdsd sdadas"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            />
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <RatingBar
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dp"
+                    android:numStars="5"
+                    android:stepSize="0.5"
+                    android:rating="3.5"
+                    android:scaleX="0.5"
+                    android:scaleY="0.5"
+                    android:transformPivotX="20dp"
+                    android:isIndicator="false"/>
+                <TextView
+                    android:layout_marginEnd="10dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="0.02km"
+                    android:gravity="right"
+                    android:textSize="15sp"/>
+
+            </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@color/white_low"></View>
+
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:layout_marginRight="5dp"-->
+            <!--android:orientation="vertical">-->
+            <android.support.v4.view.ViewPager
+                android:id="@+id/container"
+                android:layout_width="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_height="500dp"
+                android:layout_weight="1"
+                 />
+            <!--</LinearLayout>-->
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">EMap</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="sign_up">Đăng ký tài khoản ></string>
+    <string name="login">Click để đăng nhập</string>
+    <string name="minimum_password">Mật khẩu quá ngắn!</string>
+    <string name="auth_failed">Mật khẩu hoặc email sai! Vui lòng kiểm tra lại.</string>
+    <string name="dangnhap">Đăng nhập</string>
+    <string name="saveadd">Địa điểm đã lưu</string>
+    <string name="dangxuat">Đăng xuất</string>
+    <string name="aboutme">Thông tin - liên hệ</string>
+    <string name="setting">Thiết lập tài khoản</string>
+    <string name="addservice">Thêm địa điểm</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="facebook_app_id">270667556721321</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

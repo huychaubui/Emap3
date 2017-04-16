@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:orientation="horizontal"
+        android:background="@color/white_low">
+
+    <ImageView
+        android:id="@+id/imgAvatar"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@drawable/address25"/>
+    <LinearLayout
+        android:paddingLeft="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tvDisplayName"
+            android:layout_width="match_parent"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_height="25dp"
+            android:text="Display name"/>
+        <TextView
+            android:id="@+id/tvContentCmt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="RecyclerView cho phép chúng ta load dữ liệu nhiều hơn ListView, vuốt mượt hơn, hiệu ứng đẹp hơn và hỗ trợ đa dạng layout của các phần tử trong danh sách."/>
+
+    </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="4dp"
+        android:background="@color/white_low"></View>
+
+</LinearLayout>
